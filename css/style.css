@@ -70,9 +70,32 @@ th
 {
     background-color: #b1e5f1;
 }
-
-
-
+footer h5
+{
+    margin: 1vw 0;
+    color: grey;
+}
+.footer_immagine_1, .footer_immagine_2
+{
+    width: 10vw;
+    background-size: cover;
+    aspect-ratio: 4/3;
+    margin: 0.5vw 0;
+}
+.footer_immagine_1
+{
+    background-image: url('../img/monitor.jpg');
+}
+.footer_immagine_2
+{
+    background-image: url('../img/graph.jpg');
+}
+.footer_immagine_1 h4, .footer_immagine_2 h4
+{
+    color: white;
+    text-align: center;
+    padding: 0.5vw 0 0;
+}
 
 
 
