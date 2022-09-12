@@ -26,7 +26,7 @@ main, footer
     width: 80vw;
     margin: auto;
 }
-main span
+main span 
 {
     color: #3fafe4;
 }
@@ -96,9 +96,10 @@ footer h5
     text-align: center;
     padding: 0.5vw 0 0;
 }
-
-
-
+.footer_immagine_1:hover, .footer_immagine_2:hover, main span:hover, .logo:hover
+{
+    cursor: pointer;
+}
 
 
 
