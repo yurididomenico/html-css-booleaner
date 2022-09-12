@@ -25,13 +25,12 @@ main, footer
 {
     width: 80vw;
     margin: auto;
-    background-color: #3fafe4;
 }
 main span
 {
     color: #3fafe4;
 }
-main p, .main-data
+.main_p_grigio, .main-data
 {
     color: grey;
 }
@@ -43,8 +42,15 @@ main p, .main-data
 {
     margin: 1vw 0;
 }
-
-
+.main_immagini_descrizione
+{
+    font-size: 0.6vw;
+    margin: 0 0 1vw 0;
+}
+ul
+{
+    margin: 1vw 0;
+}
 
 
 
