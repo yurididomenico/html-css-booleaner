@@ -4,7 +4,10 @@
     padding: 0;
     margin: 0;
 }
-
+body
+{
+    margin: 0.3vw;
+}
 header
 {
     background-color: #57a0fc;
@@ -13,13 +16,33 @@ header
 }
 .logo
 {
-    width: 10vw;
+    width: 10%;
     height: 100%;
     padding: 2vw 0 0;
+    margin: 0 0 0 9.5vw;
 }
-
-
-
+main, footer
+{
+    width: 80vw;
+    margin: auto;
+    background-color: #3fafe4;
+}
+main span
+{
+    color: #3fafe4;
+}
+main p, .main-data
+{
+    color: grey;
+}
+.main-data
+{
+    font-size: 0.5vw;
+}
+.main_sezione_immagini
+{
+    margin: 1vw 0;
+}
 
 
 
