@@ -42,6 +42,11 @@ main span
 {
     margin: 1vw 0;
 }
+.main_sezione_immagini img
+{
+    width: calc(100% / 2 - 1vw);
+    aspect-ratio: 4/3;
+}
 .main_immagini_descrizione
 {
     font-size: 0.6vw;
